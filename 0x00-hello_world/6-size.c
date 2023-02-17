@@ -4,15 +4,15 @@
  *Return: 0 (success)
  */
 int main(void)
-char;
-int;
-long int;
-long long int;
-float;
-printf("Size of char: %i byte(s)\n", sizeof(char));
-printf("Size of int: %i byte(s)\n", sizeof(int));
-printf("Size of long int: %i byte(s)\n", sizeof(long int));
-printf("Size of long long int: %i byte(s)\n", sizeof(long long int));
-printf("Size of float: %i byte(s)\n", sizeof(float));
+char a;
+int b;
+long int x;
+long long int y;
+float z;
+printf("Size of char: %i byte(s)\n", (unsigned long)sizeof(a));
+printf("Size of int: %i byte(s)\n", (unsigned long)sizeof(b));
+printf("Size of long int: %i byte(s)\n", (unsigned long)sizeof(x));
+printf("Size of long long int: %i byte(s)\n", (unsigned long)sizeof(y));
+printf("Size of float: %i byte(s)\n", (unsigned long)sizeof(z));
 return (0);
 }

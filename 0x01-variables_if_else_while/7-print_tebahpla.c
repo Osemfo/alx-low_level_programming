@@ -1,17 +1,15 @@
 #include <stdio.h>
 /**
-*main-print the number in base 16
+*main-print letters in reverse
 *Return: always 0 (success)
 */
 int main(void)
 {
-int num;
+
 char la;
 
-for (num = 0; num < 10; num++)
-putchar((num % 10) + '0');
 
-for (la = 'a'; la <= 'z'; la++)
+for (la = 'z'; la <= 'a'; la--)
 putchar(la);
 
 putchar('\n');

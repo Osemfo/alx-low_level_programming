@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - a program that is printing alphabets on the screen
-*return: value is alway 0 (success)
+*main-a program that is printing alphabets on the screen
+*Return: 0 (success)
 */
 
 int main(void)

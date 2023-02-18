@@ -2,7 +2,7 @@
 
 /**
 *main - a program that is printing alphabets on the screen
-*return value is alway 0 (success)
+*return: value is alway 0 (success)
 */
 
 int main(void)

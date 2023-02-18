@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
 *main-posible combination of single digits
 *Return: always 0 (success)

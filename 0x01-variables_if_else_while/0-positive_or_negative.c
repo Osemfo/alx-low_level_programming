@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
-*Main-A program that prints a positive, negative or 0
-*Return 0 (Success)
+*main-A program that prints a positive, negative or 0
+*Return: 0 (Success)
 */
 int main(void)
 {

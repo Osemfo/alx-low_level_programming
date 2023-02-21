@@ -24,7 +24,7 @@ putchar(c);
 if (a == '7' && b == '8')
 continue;
 putchar(',');
-puchar(' ');
+putchar(' ');
 }
 }
 }

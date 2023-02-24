@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-*_isupper - uppercase leters
+*_isupper-uppercase leters
 *@c: char to check
 *Return: 0 or 1
 */

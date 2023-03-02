@@ -1,0 +1,1 @@
+This is a readme file about 0x06 C More pointers, arrays and strings

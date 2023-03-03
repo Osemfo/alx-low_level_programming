@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#defint MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 char *_srcat(char *dest, char *src);
